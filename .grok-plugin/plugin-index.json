@@ -1724,8 +1724,8 @@
       }
     },
     "visual-sentinel": {
-      "sha": "d00d31d7ff1044b89cbae02bfbffe4b912a59504",
-      "version": "0.2.1",
+      "sha": "e5285337932f8f964a3a64f24ae89b831b138746",
+      "version": "0.2.2",
       "components": {
         "mcpServers": [
           {
